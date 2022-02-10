@@ -1,8 +1,5 @@
 ### Olá" Eu sou o Alex Júnio
 
-- 🔭 Hoje sou Estágiario de Dev. Web
-- 🌱 Estudando JavaScript
-
 <div align="center">
   <a href="https://github.com/alexJuniio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexjuniio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
